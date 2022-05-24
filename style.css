@@ -1,9 +1,10 @@
 
 .navbar {
-	background: gray;
+	background: lightgray;
 	padding: 10px;
 }
 
 .navbar a {
 	font-size: 24px;
+	margin-right: 10px;
 }
