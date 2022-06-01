@@ -10,3 +10,17 @@
 	color: white;
 	text-decoration: none;
 }
+
+.banner {
+	padding: 25px;
+	background: green;
+	color: white;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+* {
+	font-family: monospace;
+}
